@@ -112,6 +112,8 @@ public class notas {
 		
 		fc.Mostrar();
 		
+		System.out.println("Tu resultado es: ");
+		
 		fc.aprobado();
 		
 	}
