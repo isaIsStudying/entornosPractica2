@@ -88,10 +88,10 @@ public class notas {
 	public void aprobado() {
 			
 			if(def<5 && def>=0) {
-				System.out.println("suspendio");
+				System.out.println("Has suspendio...");
 			}else {
 				if (def>=5 && def<=10 ) {
-				System.out.println("aprobado");
+				System.out.println("¡¡¡Has aprobado!!!");
 				}else {
 					System.out.println(" error en la notas");
 				}
